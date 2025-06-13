@@ -32,7 +32,7 @@ BugBoard is a comprehensive, open-source web application designed to empower bug
 
 <br>
 
-## Try BugBoard!🌐 [https://yogsec.github.io/BugBoard](https://yogsec.github.io/BugBoard)
+## Try BugBoard!🌐 [https://iamshafayat.github.io/BugBoard](https://iamshafayat.github.io/BugBoard/)
 
 
 ---
